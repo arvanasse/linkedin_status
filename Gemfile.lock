@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     hashie (2.0.5)
-    linkedin (0.4.5)
+    linkedin (0.4.6)
       hashie (>= 1.2, < 2.1)
       multi_json (~> 1.0)
       oauth (~> 0.4)
